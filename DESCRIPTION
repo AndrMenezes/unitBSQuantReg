@@ -1,0 +1,13 @@
+Package: unitBSQuantReg
+Type: Package
+Title: The unit-Birnbaum-Saunders quantile regression model
+Version: 0.1.0
+Author: Josmar Mazucheli and André Felipe B. Menezes
+Maintainer: Josmar Mazucheli <jmazucheli@gmail.com>
+Description: Parameters estimation for the unit-Birnbaum-Saunders quantile regression model.
+License: MIT + file LICENSE
+Imports: stats, quantreg, Formula, MASS, extraDistr
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 7.1.1
+Depends: R (>= 2.10)
